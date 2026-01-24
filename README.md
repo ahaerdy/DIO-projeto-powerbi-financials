@@ -16,6 +16,25 @@ O dashboard foi organizado de forma lógica para facilitar a navegação e a com
 | **Página 2** | Performance Geográfica e Financeira | Gráfico de rosca para distribuição de vendas por país; gráfico de colunas para lucro mensal; e gráfico de barras para comparação de volume de vendas entre nações. |
 | **Página 3** | Análise Geoespacial e Lucratividade | Mapas de bolhas para distribuição de vendas e lucro por país; gráfico de pizza para lucro por segmento com funcionalidade de filtro interativo. |
 
+#### Página 1
+
+<p align="center">
+  <img src="000-Midia_e_Anexos/Screenshot_20260123_215522.png" alt="" width="480">
+</p>
+
+#### Página 2
+
+<p align="center">
+  <img src="000-Midia_e_Anexos/Screenshot_20260123_215529.png" alt="" width="480">
+</p>
+
+#### Página 3
+
+<p align="center">
+  <img src="000-Midia_e_Anexos/Screenshot_20260123_215537.png" alt="" width="480">
+</p>
+
+
 ### Detalhamento da Página 3 (Desenvolvimento Autônomo)
 
 A terceira página do relatório foi concebida para explorar a dimensão geoespacial dos dados. Para esta análise, foi crucial a escolha do visual **Mapa de Bolhas** (em detrimento do mapa coroplético), pois ele permite que o **tamanho da bolha** seja diretamente proporcional à métrica analisada, facilitando a comparação visual entre regiões [1].
