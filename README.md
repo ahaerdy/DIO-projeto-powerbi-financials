@@ -50,9 +50,3 @@ Conforme as instruções da aula, o relatório final deve ser exportado e anexad
 
 ---
 *Projeto desenvolvido como parte do percurso de Engenharia de Dados com Python da NTT DATA na plataforma DIO.*
-
-## Referências
-
-[1] Transcrição da Aula - Detalhamento da escolha do Mapa de Bolhas e Tooltip (00:00:39 - 00:01:39).
-[2] Transcrição da Aula - Conclusão sobre Vendas vs. Lucro (00:02:30 - 00:02:42 e 00:04:10 - 00:04:22).
-[3] Transcrição da Aula - Instruções de Entrega (00:04:40 - 00:05:12)
