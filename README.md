@@ -63,12 +63,3 @@ Para a execução deste projeto, utilizou-se o **Power BI Desktop** como ferrame
 | **Date** | Registro temporal da transação. |
 
 Este projeto demonstra a capacidade de sintetizar dados complexos em *dashboards* intuitivos, servindo como uma ferramenta de suporte à decisão para gestores e analistas de dados.
-
-## Entrega do Projeto
-
-Conforme as instruções da aula, o relatório final deve ser exportado e anexado ao repositório. As opções de entrega incluem:
-- **PowerPoint:** Importação do relatório para o PowerPoint como suplemento, com modificações para apresentar cada página em um slide [3].
-- **PDF:** Exportação do relatório em formato PDF [3].
-
----
-*Projeto desenvolvido como parte do percurso de Engenharia de Dados com Python da NTT DATA na plataforma DIO.*
