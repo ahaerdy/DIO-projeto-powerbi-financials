@@ -63,3 +63,7 @@ Para a execução deste projeto, utilizou-se o **Power BI Desktop** como ferrame
 | **Date** | Registro temporal da transação. |
 
 Este projeto demonstra a capacidade de sintetizar dados complexos em *dashboards* intuitivos, servindo como uma ferramenta de suporte à decisão para gestores e analistas de dados.
+
+## Referências
+
+- [Repositório de Estudos – Bootcamp NTT DATA - Engenharia de Dados com Python](https://github.com/ahaerdy/DIO-learning/tree/main/NTT%20DATA-Engenharia%20de%20Dados%20com%20Python#-reposit%C3%B3rio-de-estudos--bootcamp-ntt-data-engenharia-de-dados-com-python)
